@@ -17,3 +17,9 @@ Inglés (*Pearson B2*; avanzado) | Python (nivel medio) | Asistencia a INC Monte
 Japonés (Muy básico; en aprendizaje) | [HTML y CSS (Nivel medio)](https://nemospathtocebo.netlify.app) | 
 | | Javascript (Nivel Básico) | 
 | | R (En aprendizaje) |
+
+## *Pasatiempos*
+* ### Me encanta jugar y ver videojuegos (desde el simple hecho de jugarlos hasta todo lo que ocurre tras bambalinas)
+    * #### Favorito de toda la vida: Super Mario Galaxy
+* ### Me gusta ver anime y las películas de acción y pelea ~~(Sigo esperando la última de Pacific Rim y nueva temporada de Tate No Yuusha)~~
+* ### Enseñar matemáticas ~~cuando le entiendo al tema~~
