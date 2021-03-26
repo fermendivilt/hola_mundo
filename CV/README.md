@@ -16,3 +16,4 @@ Español (natal) | C++ (nivel medio) | Staff de la *Cumbre Nacional del Liderazg
 Inglés (*Pearson B2*; avanzado) | Python (nivel medio) | Asistencia a INC Monterrey (2019)
 Japonés (Muy básico; en aprendizaje) | [HTML y CSS (Nivel medio)](https://nemospathtocebo.netlify.app) | 
 | | Javascript (Nivel Básico) | 
+| | R (En aprendizaje) |
